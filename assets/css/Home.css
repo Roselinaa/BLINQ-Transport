@@ -1,0 +1,47 @@
+hr{
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(41, 41, 1)96, 196, 192;
+}
+.A{
+    background-color: white(247, 253, 250);
+}
+.B{
+    font-size: 80px;
+    font-style: oblique;
+}
+.C{
+    color: rgb(8, 7, 54);
+    font-family: cursive;
+    font-size: 40px;
+}
+.C2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(8, 7, 54);
+}
+.D{
+    padding: 150px;
+    padding-top: 20px;
+}
+.E{
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(41, 41, 1)96, 196, 192;
+}
+.F{
+    color: navy;
+}
+.G{
+    text-align: right;
+}
+.H{
+    font-size: 30px;
+}
+.I{
+    padding-right: 20px;
+    padding-left: 50px;
+}
+.sia{
+    background-color: orangered;
+}

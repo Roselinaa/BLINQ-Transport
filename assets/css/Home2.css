@@ -1,0 +1,74 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h6{
+    text-align: right;
+    color: rgb(45, 9, 59);
+    font-family: 'Sriracha', cursive;
+    font-size: 30px;
+}
+P{
+    font-family: 'Kanit', sans-serif;
+}
+h5{
+    font-family: 'Sriracha', cursive
+}
+.furler{
+    margin-left: 60%;
+    color: black;
+    background-color: transparent;
+}
+.sia{
+    background-color: orangered;
+}
+.Queen{
+    margin-left: 20px;
+    margin-right: 20px; 
+}
+.Forever{
+    background: url(../images/orange-abstract-background-png-1.png);
+
+}
+.grace{
+    background: rgba(236, 105, 58, 0.274); width: 1349px; height: 40px;
+}
+.end{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.A{
+    border-color: transparent;
+    border-width: 1px;
+    background-color: transparent;
+}
+.C{
+    color: rgba(211, 101, 12, 0.863);
+    font-size: 50px;
+}
+.D{
+    padding: 150px;
+    padding-top: 10px;
+}
+.E{
+    border-radius: 50px;
+    border-style: outset;
+    border-width: 2px;
+    border-color: rgba(255, 99, 71, 0.548);
+} 
+.F{
+    color: tomato;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.H{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-weight: bold;
+}
+.I{
+    padding-right: 20px;
+    padding-left: 50px;
+}
+.J{
+    font-style: normal;
+}

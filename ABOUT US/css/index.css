@@ -1,0 +1,21 @@
+body{
+     text-align: center; font-family: cursive;
+    
+}
+.cohort{
+    background-color: blue;
+    border-style: ridge; border-width: 50px;
+
+}
+.second{
+
+    margin-top: 100px;
+    padding-top: 50px;
+
+}
+.third{
+    height: 500px;width: 50%;background-color: powderblue;
+}
+ul.fourth{
+    list-style-type: circle;
+}
